@@ -8,8 +8,6 @@ O objetivo do treinamento é mostrar como criar um sistema em ReactJs utilizando
 
 ## [**Link para a documentação da API**](http://fordevs.herokuapp.com/api-docs)
 
-<br />
-
 > ## Princípios
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
